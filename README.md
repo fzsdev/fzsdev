@@ -3,7 +3,7 @@
 
  
 - 🔭 Estou procurando primeiro emprego na área de TI
-- 💻 Estou estudando para me aperfeiçoar cada vez mais
+- 💻 Estudando para me aperfeiçoar cada vez mais
 - 📫 Pode me mandar email! fzs.fto@hotmail.com   
 <br>
 
