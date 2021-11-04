@@ -24,9 +24,9 @@
 
 ### Projetos:
 
-- <a href="https://fzsdev.github.io/appClima">appClima</a> 
-- <a href="https://fzsdev.github.io/projeto_devfinances/">devFinance$</a>
-- <a href="https://fzsdev.github.io/caravan">Caravan</a>
+- <a href="https://fzsdev.github.io/appClima" target="_blank">appClima</a> 
+- <a href="https://fzsdev.github.io/projeto_devfinances/" target="_blank">devFinance$</a>
+- <a href="https://fzsdev.github.io/caravan" target="_blank">Caravan</a>
 <!-- - <a href="#"></a> -->
 
 
