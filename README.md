@@ -7,7 +7,7 @@
 - 📫 Pode me mandar email! fzs.fto@hotmail.com   
 <br>
 
- [![Lindein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fzsdev)
+ <a href="https://www.linkedin.com/in/fzspht/" target="_blank"><img  alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 
 ### Tecnologias:
