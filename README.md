@@ -31,7 +31,7 @@
 <!-- - <a href="#"></a> -->
 
 
-[![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=fzsdev&hide=stars,issues&show_icons=true&theme=tokyonight)](#)
+<!-- [![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=fzsdev&hide=stars,issues&show_icons=true&theme=tokyonight)](#) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzsdev&langs_count=8&theme=tokyonight)](https://github.com/fzsdev/github-readme-stats)
 
