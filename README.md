@@ -5,10 +5,8 @@
 - 🔭 Estou procurando primeiro emprego na área de TI
 - 💻 Estudando para me aperfeiçoar cada vez mais
 - 📫 Pode me mandar email! fzs.fto@hotmail.com   
-<br>
 
- <a href="https://www.linkedin.com/in/fzspht/" target="_blank"><img  alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-
+ <!-- <a href="https://www.linkedin.com/in/fzspht/" target="_blank"><img  alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> -->
 
 ### Tecnologias:
 <div style="display: inline_block"><br/>
