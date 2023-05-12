@@ -27,7 +27,7 @@
 ### Projetos Back-end:
 
 - <a href="https://github.com/fzsdev/Voll.med" target="_blank">Voll.med API</a> 
-- <a href="https://github.com/fzsdev/FirstSpring_Pjt" target="_blank">userdept (Spring Boot)</a>
+- <a href="https://github.com/fzsdev/userdept" target="_blank">userdept (Spring Boot)</a>
 - <a href="https://github.com/fzsdev/Projeto_JAVA_Alura" target="_blank">Construtor Sticker IMDB</a>
 
 ### Projetos Front-end:
