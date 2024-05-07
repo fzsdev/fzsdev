@@ -24,6 +24,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzsdev&layout=compact)](#) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzsdev&hide_progress=true&theme=tokyonight&langs_count=8)
+<!-- &hide=html,css // hide para esconder linguagens -->
+
 ### Projetos Back-end:
 
 - <a href="https://github.com/fzsdev/Voll.med" target="_blank">Voll.med API</a> 
@@ -40,7 +43,9 @@
 
 <!-- [![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=fzsdev&hide=stars,issues&show_icons=true&theme=tokyonight)](#) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzsdev&langs_count=8&theme=tokyonight)](https://github.com/fzsdev/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzsdev&langs_count=8&theme=tokyonight)](https://github.com/fzsdev/github-readme-stats) -->
+
+
 
 
 
