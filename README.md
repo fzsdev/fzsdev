@@ -29,6 +29,7 @@
 
 ### Projetos Back-end:
 
+- <a href="https://github.com/fzsdev/bluesky-blocker" target="_blank">bluesky-blocker</a>
 - <a href="https://github.com/fzsdev/Voll.med" target="_blank">Voll.med API</a> 
 - <a href="https://github.com/fzsdev/userdept" target="_blank">userdept (Spring Boot)</a>
 - <a href="https://github.com/fzsdev/Projeto_JAVA_Alura" target="_blank">Construtor Sticker IMDB</a>
