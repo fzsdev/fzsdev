@@ -1,4 +1,4 @@
-# Hey! Meu nome é Felipe 👓 💻
+# Hey! Meu nome é Felipe 
 <br>
 
 
