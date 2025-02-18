@@ -14,10 +14,12 @@
     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black">
   <img alt="spring"
     src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=black">
+  <img alt="python"
+    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img alt="mysql"
   src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
- <img alt="python"
-    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img alt="postgresql" 
+  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="html5"
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
   <img alt="css3"
@@ -40,22 +42,27 @@
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzsdev&hide_progress=true&theme=tokyonight&langs_count=8) -->
 <!-- &hide=html,css // hide para esconder linguagens -->
 
-### Projetos Back-end:
+<table>
+  <tr>
+    <th>Projetos Back-end</th>
+    <th>Projetos Front-end</th>
+  </tr>
+  <tr>
+    <td>
+      - <a href="https://github.com/fzsdev/BlockSky_app" target="_blank">BlockSky APP</a> - <a href="https://blocksky.social" target="_blank">Site</a><br>
+      - <a href="https://github.com/fzsdev/bluesky-blocker" target="_blank">bluesky-blocker</a><br>
+      - <a href="https://github.com/fzsdev/Voll.med" target="_blank">Voll.med API</a><br>
+      - <a href="https://github.com/fzsdev/userdept" target="_blank">userdept (Spring Boot)</a><br>
+      - <a href="https://github.com/fzsdev/Projeto_JAVA_Alura" target="_blank">Construtor Sticker IMDB</a>
+    </td>
+    <td>
+      - <a href="https://fzsdev.github.io/appClima" target="_blank">appClima</a><br>
+      - <a href="https://fzsdev.github.io/projeto_devfinances/" target="_blank">devFinance$</a><br>
+      - <a href="https://fzsdev.github.io/caravan" target="_blank">Caravan</a>
+    </td>
+  </tr>
+</table>
 
-- <a href="https://github.com/fzsdev/bluesky-blocker"
-  target="_blank">bluesky-blocker</a>
-- <a href="https://github.com/fzsdev/Voll.med" target="_blank">Voll.med API</a>
-- <a href="https://github.com/fzsdev/userdept" target="_blank">userdept (Spring
-  Boot)</a>
-- <a href="https://github.com/fzsdev/Projeto_JAVA_Alura"
-  target="_blank">Construtor Sticker IMDB</a>
-
-### Projetos Front-end:
-
-- <a href="https://fzsdev.github.io/appClima" target="_blank">appClima</a>
-- <a href="https://fzsdev.github.io/projeto_devfinances/"
-  target="_blank">devFinance$</a>
-- <a href="https://fzsdev.github.io/caravan" target="_blank">Caravan</a>
 <!-- - <a href="#"></a> -->
 
 
